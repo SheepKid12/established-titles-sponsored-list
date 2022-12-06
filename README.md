@@ -11,90 +11,90 @@ All information is as of December 5, 2022 with what research I had the time to d
 | Channel      | Sponsor Segment (if still online)     | Apologized? |
 |--------------|---------------------|-------------|
 | Detail Geek (found this one myself) | [RAT Infested Car](https://youtu.be/q3bRs8W-nEc?t=441) | ❌ (straight up crickets here) |
-| SwitchUp     | TOADD SCOTT  | ✅ ([community post](https://www.youtube.com/post/UgkxQG4OvMXu2KCPxRXUSc6yuLhdkqy-A2Ck)) |
-| Philip DeFranco | TOADD SCOTT | ✅ ([here](https://youtu.be/bvKF58FH2Zw) and to [TheRealSullyG](https://youtu.be/KMQOXxN5JYY?t=186), who publicly stated they didn't take it) | 
-| Ben Shapiro   | TOADD SCOTT | ❓ |
+| SwitchUp     | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I)  | ✅ ([community post](https://www.youtube.com/post/UgkxQG4OvMXu2KCPxRXUSc6yuLhdkqy-A2Ck)) |
+| Philip DeFranco | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ✅ ([here](https://youtu.be/bvKF58FH2Zw) and to [TheRealSullyG](https://youtu.be/KMQOXxN5JYY?t=186), who publicly stated they didn't take it) | 
+| Ben Shapiro   | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
 | The Click     | Unknown | ✅ ([here](https://www.youtube.com/watch?v=tyMgk19cE18)) | 
 | Wavywebsurf   | [Infamous Fast Food](https://www.youtube.com/watch?v=Pf2aYwPP8OU) | ✅ ([community post](https://www.youtube.com/post/Ugkx8RyRbQWgUtykSvDPfHUQPR29V5S0ussD)) |
-| YMH Studios   | TOADD SCOTT | ❓ |
+| YMH Studios   | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
 | TLG (The Linux Gamer, also found myself) | Removed | ✅ ([Masdoton post](https://mastodon.online/@gardiner_bryant/109416349148243149)) |
 | SoG (Some Ordinary Gamers) | Removed | ✅ ([here](https://www.youtube.com/watch?v=uCTDhWk9TEM)) |
-| The Film Theorists | TOADD SCOTT | ❌ |
-| Matt Stonie | TOADD SCOTT | ❓ |
-| IMPAULSIVE  | TOADD SCOTT | ❓ |
-| Nikocado Avocado | TOADD SCOTT | ❓ |
-| Matt Walsh | TOADD SCOTT | ❓ |
-| Leon Lush | TOADD SCOTT | ❓ |
-| Chael Sonnen | TOADD SCOTT | ❓ |
-| The Majority Report w/ Sam Seder | TOADD SCOTT | ❓ |
-| Paul Joseph Watson | TOADD SCOTT | ❓ |
-| David Pakman Show | TOADD SCOTT | ❓ |
-| Aba N Preach | TOADD SCOTT | ❓ |
-| Timcast IRL | TOADD SCOTT | ❓ |
-| ItsAGundam | TOADD SCOTT | ❓ |
-| Psyched Substances | TOADD SCOTT | ❓ |
-| GrandLineReview | TOADD SCOTT | ❓ |
-| Ryan Long | TOADD SCOTT | ❓ |
-| Kentucky Ballistics | TOADD SCOTT | ❓ |
-| Mattias Krantz | TOADD SCOTT | ❓ |
-| Moon | TOADD SCOTT | ❓ |
-| Kelly Wakasa | TOADD SCOTT | ❓ |
-| Doctor Mike | TOADD SCOTT | ❓ |
-| CaspianReport | TOADD SCOTT | ❓ |
-| Speak The Truth | TOADD SCOTT | ❓ |
-| Steven He | TOADD SCOTT | ❓ |
-| James Klug | TOADD SCOTT | ❓ |
-| KTO | TOADD SCOTT | ❓ |
-| Dr. Todd Grande | TOADD SCOTT | ❓ |
-| JOLLY | TOADD SCOTT | ❓ |
-| Korean Englishman | TOADD SCOTT | ❓ |
-| Johnny Harris | TOADD SCOTT | ❓ |
-| j aubrey | TOADD SCOTT | ❓ |
-| Eleanor Neale | TOADD SCOTT | ❓ |
-| Isaac Butterfield | TOADD SCOTT | ❓ |
-| Patrick Cc | TOADD SCOTT | ❓ |
-| Cinema Therapy | TOADD SCOTT | ❓ |
-| Ben Mallah | TOADD SCOTT | ❓ |
-| Dantavius | TOADD SCOTT | ❓ |
-| Kings and Generals | TOADD SCOTT | ❓ |
-| Wendigoon | TOADD SCOTT | ❓ |
-| Sven Johnson | TOADD SCOTT | ❓ |
-| Bert Kreischer | TOADD SCOTT | ❓ |
-| LoeyLane | TOADD SCOTT | ❓ |
-| The Why Files | TOADD SCOTT | ❓ |
-| HeavyDSparks | TOADD SCOTT | ❓ |
-| Atozy | TOADD SCOTT | ❓ |
-| Allen Pan | TOADD SCOTT | ❓ |
-| Lorry Hill | TOADD SCOTT | ❓ |
-| The Canadian Lad | TOADD SCOTT | ❓ |
-| ScreenCrush | TOADD SCOTT | ❓ |
-| NEVER TOO SMALL | TOADD SCOTT | ❓ |
-| Naruto Explained | TOADD SCOTT | ❓ |
-| HistoryMarche | TOADD SCOTT | ❓ |
-| History Tea Time with Lindsay Holi | TOADD SCOTT | ❓ |day
-| Atomic Frontier | TOADD SCOTT | ❓ |
-| I Forgot | TOADD SCOTT | ❓ |
-| calvinandhobs | TOADD SCOTT | ❓ |
-| Sydney Watson | TOADD SCOTT | ❓ |
-| MxR Plays | TOADD SCOTT | ❓ |
-| WolfeyVGC | TOADD SCOTT | ❓ |
-| Steve Reviews | TOADD SCOTT | ❓ |
-| Professor Stick | TOADD SCOTT | ❓ |
-| Paul Cuffaro | TOADD SCOTT | ❓ |
-| Mark Felton Productions | TOADD SCOTT | ❓ |
-| Jumpers Jump | TOADD SCOTT | ❓ |
-| ConeOfArc | TOADD SCOTT (supposedly will be removed if YT commenter is to be believed) | ❓ |
-| Think Before You Sleep | TOADD SCOTT | ❓ |
-| Noel Philips | TOADD SCOTT | ❓ |
-| ITS HISTORY | TOADD SCOTT | ❓ |
-| SideQuest | TOADD SCOTT | ❓ |
-| Skeeter Jean | TOADD SCOTT | ❓ |
-| PeterSripol | TOADD SCOTT | ❓ |
-| Natalie Gold | TOADD SCOTT | ❓ |
-| Comic Drake | TOADD SCOTT | ❓ |
-| Newsthink | TOADD SCOTT | ❓ |
-| penguinz0 (The Official Podcast)  | TOADD SCOTT | ❓ |
-| Meet Kevin | TOADD SCOTT | ❓ |
+| The Film Theorists | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❌ |
+| Matt Stonie | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| IMPAULSIVE  | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Nikocado Avocado | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Matt Walsh | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Leon Lush | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Chael Sonnen | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| The Majority Report w/ Sam Seder | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Paul Joseph Watson | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| David Pakman Show | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Aba N Preach | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Timcast IRL | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| ItsAGundam | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Psyched Substances | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| GrandLineReview | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Ryan Long | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Kentucky Ballistics | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Mattias Krantz | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Moon | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Kelly Wakasa | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Doctor Mike | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| CaspianReport | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Speak The Truth | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Steven He | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| James Klug | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| KTO | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Dr. Todd Grande | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| JOLLY | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Korean Englishman | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Johnny Harris | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| j aubrey | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Eleanor Neale | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Isaac Butterfield | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Patrick Cc | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Cinema Therapy | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Ben Mallah | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Dantavius | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Kings and Generals | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Wendigoon | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Sven Johnson | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Bert Kreischer | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| LoeyLane | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| The Why Files | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| HeavyDSparks | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Atozy | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Allen Pan | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Lorry Hill | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| The Canadian Lad | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| ScreenCrush | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| NEVER TOO SMALL | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Naruto Explained | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| HistoryMarche | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| History Tea Time with Lindsay Holi | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |day
+| Atomic Frontier | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| I Forgot | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| calvinandhobs | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Sydney Watson | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| MxR Plays | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| WolfeyVGC | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Steve Reviews | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Professor Stick | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Paul Cuffaro | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Mark Felton Productions | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Jumpers Jump | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| ConeOfArc | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) (supposedly will be removed if YT commenter is to be believed) | ❓ |
+| Think Before You Sleep | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Noel Philips | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| ITS HISTORY | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| SideQuest | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Skeeter Jean | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| PeterSripol | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Natalie Gold | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Comic Drake | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Newsthink | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| penguinz0 (The Official Podcast)  | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| Meet Kevin | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
 
 ### YT Comment Additions
 
