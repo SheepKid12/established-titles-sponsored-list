@@ -1,25 +1,25 @@
 # Established Titles Sponsored List
 
-If you haven't heard already, Established Titles got themselves into a bit of a prediciment. [Here's](https://www.youtube.com/watch?v=p2W2TJZYHsw) the original video that set it off.
+If you haven't heard already, Established Titles got themselves into a bit of a prediciment. [Here's](https://www.youtube.com/watch?v=p2W2TJZYHsw) the original video that set it off. I hope to provide an extensive list of every creator that took a sponsorship from this company (in no particular order).
 
-I hope to provide an extensive list of every creator that took a sponsorship from this company (in no particular order).
+**PLEASE NOTE:** This list is NOT meant to use to harass these creators. Personal opinions aside: we're all people, and we all make mistakes. Some have doubled down on their mistakes though (as you will see).
 
 I **know** I've missed a substantial amount of them, and if you've found one in your corner of YouTube that's not listed, please let me know.
 
-All information is as of December 5, 2022 with what research I had the time to do (the question marks are for channels I didn't research)
+*All information is as of December 5, 2022 with what research I had the time to do (the question marks are for channels I didn't research)*
 
-| Channel      | Sponsor Segment (if still online)     | Apologized? |
+| Channel      | Sponsor Segment (if still online)     | Apologized/Said Anything? |
 |--------------|---------------------|-------------|
-| Detail Geek (found this one myself) | [RAT Infested Car](https://youtu.be/q3bRs8W-nEc?t=441) | ❌ (straight up crickets here) |
-| SwitchUp     | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I)  | ✅ ([community post](https://www.youtube.com/post/UgkxQG4OvMXu2KCPxRXUSc6yuLhdkqy-A2Ck)) |
+| Detail Geek (found this one myself) | [Rat Infested Car](https://youtu.be/q3bRs8W-nEc?t=441) | ❌ (straight up crickets here) |
+| SwitchUp | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I)  | ✅ ([community post](https://www.youtube.com/post/UgkxQG4OvMXu2KCPxRXUSc6yuLhdkqy-A2Ck)) |
 | Philip DeFranco | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ✅ ([here](https://youtu.be/bvKF58FH2Zw) and to [TheRealSullyG](https://youtu.be/KMQOXxN5JYY?t=186), who publicly stated they didn't take it) | 
 | Ben Shapiro   | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
-| The Click     | Unknown | ✅ ([here](https://www.youtube.com/watch?v=tyMgk19cE18)) | 
-| Wavywebsurf   | [Infamous Fast Food](https://www.youtube.com/watch?v=Pf2aYwPP8OU) | ✅ ([community post](https://www.youtube.com/post/Ugkx8RyRbQWgUtykSvDPfHUQPR29V5S0ussD)) |
+| The Click     | Removed from what I can see | ✅ ([here](https://www.youtube.com/watch?v=tyMgk19cE18)) | 
+| Wavywebsurf   | [Infamous Fast Food video](https://www.youtube.com/watch?v=Pf2aYwPP8OU) | ✅ ([community post](https://www.youtube.com/post/Ugkx8RyRbQWgUtykSvDPfHUQPR29V5S0ussD)) |
 | YMH Studios   | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
 | TLG (The Linux Gamer, also found myself) | Removed | ✅ ([Masdoton post](https://mastodon.online/@gardiner_bryant/109416349148243149)) |
-| SoG (Some Ordinary Gamers) | Removed | ✅ ([here](https://www.youtube.com/watch?v=uCTDhWk9TEM)) |
-| The Film Theorists | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❌ |
+| Some Ordinary Gamers/SomeOrdinaryPodcast | Removed (couldn't find reference in compilation video) & [Twitch Drama Went Nuclear](https://www.youtube.com/watch?v=GxtZwxhiToA) | ✅ ([here](https://www.youtube.com/watch?v=uCTDhWk9TEM)) |
+| The Film Theorists/Game Theory as a whole | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❌ |
 | Matt Stonie | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
 | IMPAULSIVE  | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
 | Nikocado Avocado | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
@@ -93,22 +93,22 @@ All information is as of December 5, 2022 with what research I had the time to d
 | Natalie Gold | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
 | Comic Drake | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
 | Newsthink | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
-| penguinz0 (The Official Podcast)  | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
+| penguinz0 (The Official Podcast) | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) (episodes 270 and 299 as per RSS feed & quick search in Overcast) | ❌ (nothing I can see) |
 | Meet Kevin | [here](https://www.youtube.com/watch?v=II4wtyC6Y2I) | ❓ |
 
 ### YT Comment Additions
 
-These came from the compilation video. I tried to compile all of them here.
+These came from the compilation video. I tried to compile all of them here, but there were just too many of them.
 
-| Channel      | Sponsor Segment (if still online)     | Apologized? |
+| Channel      | Sponsor Segment (if still online)     | Apologized/Said Anything? |
 |--------------|---------------------|-------------|
 | Battleship New Jersey | Unknown | ❓ |
-| Jammidodger (yikes man) | Unknown | ❓ (YT commenter did claim they did) |
+| Jammidodger (yikes man) | Appears to be removed | ✅ [community post](https://www.youtube.com/post/Ugkx4azTi2gazMs7XXfeLM-grG13aPnP1uin) |
 | TheQuartering | Unknown | ❓ |
 | Jarvis Johnson! GOLD | Unknown | ❓ |
 | Ruxin34 | Unknown | ❓ |
 | Speak the truth | Unknown | ❓ |
-| Ted Nivison | Cheeto Ice Cream w/Schlatt | ❓ |
+| Ted Nivison | [What Flavor Works Best in Ice Cream?](https://www.youtube.com/watch?v=xLrp_VoXbck) | ❌ |
 | Sailing Uma | Unknown | ❓ |
 | Coaster Studios | Unknown | ❓ |
 | Nick Zammeti | Unknown | ❓ |
